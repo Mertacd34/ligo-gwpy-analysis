@@ -1,0 +1,4 @@
+gwpy
+gwosc
+numpy
+matplotlib
