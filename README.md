@@ -48,7 +48,6 @@ ligo-gwpy-analysis/
 ├── gw151226/
 │   ├── GW151226.py
 │   ├── figures/
-│   └── README.md
 ├── requirements.txt
 └── README.md
 ```
